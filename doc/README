@@ -1,0 +1,5 @@
+Install packages
+- https://github.com/rtconner/laravel-tagging
+
+Packages for development
+- composer require barryvdh/laravel-debugbar --dev
